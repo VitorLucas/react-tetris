@@ -24,7 +24,7 @@ export const usePlayer = () =>{
             tetromino:randomTetrominos().shape,
             collided: false,
         })
-    },)
+    },[])
 
     return [player, updatePlayerPos, resetPlayer];
 }
