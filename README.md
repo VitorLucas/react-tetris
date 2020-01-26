@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Details
+This project was made using as exemple the tutorial 
+How to Build Tetris in React - GameDev Tutorial (with React Hooks!)
+https://www.youtube.com/watch?v=ZGOaCxX8HIU
+
 ## Available Scripts
 
 In the project directory, you can run:
