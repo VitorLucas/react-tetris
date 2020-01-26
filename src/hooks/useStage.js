@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react'
 import{ createStage } from '../gameHelper'
-import { arrayExpression } from '@babel/types';
 
 export const useStage = (player, resetPlayer) => {
     const[stage, setStage] = useState(createStage());
